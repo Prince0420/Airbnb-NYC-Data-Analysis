@@ -160,6 +160,6 @@ Contributing Team Members:
 
 |Name     |  Email   | 
 |---------|-----------------|
-|Mohd Sharik    |https://github.com/MohdSharik99/AirBnB-analysis   |  mohdsharikias99@gmail.com  |
+|Mohd Sharik   (https://github.com/MohdSharik99/AirBnB-analysis)   |  mohdsharikias99@gmail.com  |
 |Price Nayak (Current path)        |  princenayak0129@gmail.com  |
 |Gokul Jagannadh (https://github.com/gokuljagannadh/Airbnb_Booking_Analysis)|  gokuljagannadh@gmail.com   |
